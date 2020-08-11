@@ -1,0 +1,402 @@
+[
+   {
+      "name" : "Arrows - Cloud Download",
+      "value" : "arrows-1_cloud-d"
+   },
+   {
+      "name" : "Arrows - Cloud Upload",
+      "value" : "arrows-1_cloud-u"
+   },
+   {
+      "name" : "Arrows - Minimal Down",
+      "value" : "arrows-1_minimal"
+   },
+   {
+      "name" : "Arrows - Minimal Left",
+      "value" : "arrows-1_minimal"
+   },
+   {
+      "name" : "Arrows - Minimal Right",
+      "value" : "arrows-1_minimal"
+   },
+   {
+      "name" : "Arrows - Minimal Up",
+      "value" : "arrows-1_minimal"
+   },
+   {
+      "name" : "Arrows - Refresh",
+      "value" : "arrows-1_refresh"
+   },
+   {
+      "name" : "Arrows - Share",
+      "value" : "arrows-1_share-6"
+   },
+   {
+      "name" : "Business - Badge",
+      "value" : "business_badge"
+   },
+   {
+      "name" : "Business - Bank",
+      "value" : "business_bank"
+   },
+   {
+      "name" : "Business - Briefcase",
+      "value" : "business_briefca"
+   },
+   {
+      "name" : "Business - Bulb",
+      "value" : "business_bulb-63"
+   },
+   {
+      "name" : "Business - Chart Bar",
+      "value" : "business_chart-b"
+   },
+   {
+      "name" : "Business - Chart Pie",
+      "value" : "business_chart-p"
+   },
+   {
+      "name" : "Business - Globe",
+      "value" : "business_globe"
+   },
+   {
+      "name" : "Business - Money Coins",
+      "value" : "business_money-c"
+   },
+   {
+      "name" : "Clothes - Tie Bow",
+      "value" : "clothes_tie-bow"
+   },
+   {
+      "name" : "Design - App",
+      "value" : "design_app"
+   },
+   {
+      "name" : "Design - Bullet List",
+      "value" : "design_bullet-li"
+   },
+   {
+      "name" : "Design - Image",
+      "value" : "design_image"
+   },
+   {
+      "name" : "Design - Palette",
+      "value" : "design_palette"
+   },
+   {
+      "name" : "Design - Scissors",
+      "value" : "design_scissors"
+   },
+   {
+      "name" : "Design - Vector",
+      "value" : "design_vector"
+   },
+   {
+      "name" : "Design - Html5",
+      "value" : "design-2_html5"
+   },
+   {
+      "name" : "Design - Ruler Pencil",
+      "value" : "design-2_ruler-p"
+   },
+   {
+      "name" : "Emoticons - Satisfied",
+      "value" : "emoticons_satisf"
+   },
+   {
+      "name" : "Files - Box",
+      "value" : "files_box"
+   },
+   {
+      "name" : "Files - Paper",
+      "value" : "files_paper"
+   },
+   {
+      "name" : "Files - Single Copy",
+      "value" : "files_single-cop"
+   },
+   {
+      "name" : "Health - Ambulance",
+      "value" : "health_ambulance"
+   },
+   {
+      "name" : "Loader - Gear",
+      "value" : "loader_gear"
+   },
+   {
+      "name" : "Loader - Refresh",
+      "value" : "loader_refresh"
+   },
+   {
+      "name" : "Location - Bookmark",
+      "value" : "location_bookmar"
+   },
+   {
+      "name" : "Location - Compass",
+      "value" : "location_compass"
+   },
+   {
+      "name" : "Location - Map Big",
+      "value" : "location_map-big"
+   },
+   {
+      "name" : "Location - Pin",
+      "value" : "location_pin"
+   },
+   {
+      "name" : "Location - World",
+      "value" : "location_world"
+   },
+   {
+      "name" : "Media - Album",
+      "value" : "media-1_album"
+   },
+   {
+      "name" : "Media - Button Pause",
+      "value" : "media-1_button-p"
+   },
+   {
+      "name" : "Media - Button Play",
+      "value" : "media-1_button-p"
+   },
+   {
+      "name" : "Media - Button Power",
+      "value" : "media-1_button-p"
+   },
+   {
+      "name" : "Media - Camera Compact",
+      "value" : "media-1_camera-c"
+   },
+   {
+      "name" : "Media - Note",
+      "value" : "media-2_note-03"
+   },
+   {
+      "name" : "Media - Sound Wave",
+      "value" : "media-2_sound-wa"
+   },
+   {
+      "name" : "Objects - Diamond",
+      "value" : "objects_diamond"
+   },
+   {
+      "name" : "Objects - Globe",
+      "value" : "objects_globe"
+   },
+   {
+      "name" : "Objects - Key",
+      "value" : "objects_key-25"
+   },
+   {
+      "name" : "Objects - Planet",
+      "value" : "objects_planet"
+   },
+   {
+      "name" : "Objects - Spaceship",
+      "value" : "objects_spaceshi"
+   },
+   {
+      "name" : "Objects - Support",
+      "value" : "objects_support-"
+   },
+   {
+      "name" : "Objects - Umbrella",
+      "value" : "objects_umbrella"
+   },
+   {
+      "name" : "Education - Agenda Bookmark",
+      "value" : "education_agenda"
+   },
+   {
+      "name" : "Education - Atom",
+      "value" : "education_atom"
+   },
+   {
+      "name" : "Education - Glasses",
+      "value" : "education_glasse"
+   },
+   {
+      "name" : "Education - Hat",
+      "value" : "education_hat"
+   },
+   {
+      "name" : "Education - Paper",
+      "value" : "education_paper"
+   },
+   {
+      "name" : "Shopping - Bag",
+      "value" : "shopping_bag-16"
+   },
+   {
+      "name" : "Shopping - Basket",
+      "value" : "shopping_basket"
+   },
+   {
+      "name" : "Shopping - Box",
+      "value" : "shopping_box"
+   },
+   {
+      "name" : "Shopping - Cart Simple",
+      "value" : "shopping_cart-si"
+   },
+   {
+      "name" : "Shopping - Credit Card",
+      "value" : "shopping_credit-"
+   },
+   {
+      "name" : "Shopping - Delivery Fast",
+      "value" : "shopping_deliver"
+   },
+   {
+      "name" : "Shopping - Shop",
+      "value" : "shopping_shop"
+   },
+   {
+      "name" : "Shopping - Tag Content",
+      "value" : "shopping_tag-con"
+   },
+   {
+      "name" : "Sport - Trophy",
+      "value" : "sport_trophy"
+   },
+   {
+      "name" : "Sport - User Run",
+      "value" : "sport_user-run"
+   },
+   {
+      "name" : "Tech - Controller Modern",
+      "value" : "tech_controller-"
+   },
+   {
+      "name" : "Tech - Headphones",
+      "value" : "tech_headphones"
+   },
+   {
+      "name" : "Tech - Laptop",
+      "value" : "tech_laptop"
+   },
+   {
+      "name" : "Tech - Mobile",
+      "value" : "tech_mobile"
+   },
+   {
+      "name" : "Tech - Tablet",
+      "value" : "tech_tablet"
+   },
+   {
+      "name" : "Tech - Tv",
+      "value" : "tech_tv"
+   },
+   {
+      "name" : "Tech - Watch Time",
+      "value" : "tech_watch-time"
+   },
+   {
+      "name" : "Text - Align Center",
+      "value" : "text_align-cente"
+   },
+   {
+      "name" : "Text - Align Left",
+      "value" : "text_align-left"
+   },
+   {
+      "name" : "Text - Bold",
+      "value" : "text_bold"
+   },
+   {
+      "name" : "Text - Caps Small",
+      "value" : "text_caps-small"
+   },
+   {
+      "name" : "Gestures - Tap",
+      "value" : "gestures_tap-01"
+   },
+   {
+      "name" : "Transportation - Air Baloon",
+      "value" : "transportation_a"
+   },
+   {
+      "name" : "Transportation - Bus Front",
+      "value" : "transportation_b"
+   },
+   {
+      "name" : "Travel - Info",
+      "value" : "travel_info"
+   },
+   {
+      "name" : "Travel - Istanbul",
+      "value" : "travel_istanbul"
+   },
+   {
+      "name" : "UI - Bell",
+      "value" : "ui-1_bell-53"
+   },
+   {
+      "name" : "UI - Calendar",
+      "value" : "ui-1_calendar-60"
+   },
+   {
+      "name" : "UI - Check",
+      "value" : "ui-1_check"
+   },
+   {
+      "name" : "UI - Lock Circle Open",
+      "value" : "ui-1_lock-circle"
+   },
+   {
+      "name" : "UI - Send",
+      "value" : "ui-1_send"
+   },
+   {
+      "name" : "UI - Settings Gear",
+      "value" : "ui-1_settings-ge"
+   },
+   {
+      "name" : "UI - Simple Add",
+      "value" : "ui-1_simple-add"
+   },
+   {
+      "name" : "UI - Simple Delete",
+      "value" : "ui-1_simple-dele"
+   },
+   {
+      "name" : "UI - Simple Remove",
+      "value" : "ui-1_simple-remo"
+   },
+   {
+      "name" : "UI - Zoom Bold",
+      "value" : "ui-1_zoom-bold"
+   },
+   {
+      "name" : "UI - Chat Round",
+      "value" : "ui-2_chat-round"
+   },
+   {
+      "name" : "UI - Favourite",
+      "value" : "ui-2_favourite-2"
+   },
+   {
+      "name" : "UI - Like",
+      "value" : "ui-2_like"
+   },
+   {
+      "name" : "UI - Settings",
+      "value" : "ui-2_settings-90"
+   },
+   {
+      "name" : "UI - Time Alarm",
+      "value" : "ui-2_time-alarm"
+   },
+   {
+      "name" : "UI - Email",
+      "value" : "ui-1_email-85"
+   },
+   {
+      "name" : "Users - Circle",
+      "value" : "users_circle-08"
+   },
+   {
+      "name" : "Users - Single",
+      "value" : "users_single-02"
+   }
+]
