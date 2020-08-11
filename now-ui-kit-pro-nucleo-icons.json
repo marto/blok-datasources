@@ -1,35 +1,35 @@
 [
    {
       "name" : "Arrows - Cloud Download",
-      "value" : "arrows-1_cloud-d"
+      "value" : "arrows-1_cloud-download-93"
    },
    {
       "name" : "Arrows - Cloud Upload",
-      "value" : "arrows-1_cloud-u"
+      "value" : "arrows-1_cloud-upload-94"
    },
    {
       "name" : "Arrows - Minimal Down",
-      "value" : "arrows-1_minimal"
+      "value" : "arrows-1_minimal-down"
    },
    {
       "name" : "Arrows - Minimal Left",
-      "value" : "arrows-1_minimal"
+      "value" : "arrows-1_minimal-left"
    },
    {
       "name" : "Arrows - Minimal Right",
-      "value" : "arrows-1_minimal"
+      "value" : "arrows-1_minimal-right"
    },
    {
       "name" : "Arrows - Minimal Up",
-      "value" : "arrows-1_minimal"
+      "value" : "arrows-1_minimal-up"
    },
    {
       "name" : "Arrows - Refresh",
-      "value" : "arrows-1_refresh"
+      "value" : "arrows-1_refresh-69"
    },
    {
       "name" : "Arrows - Share",
-      "value" : "arrows-1_share-6"
+      "value" : "arrows-1_share-66"
    },
    {
       "name" : "Business - Badge",
@@ -41,7 +41,7 @@
    },
    {
       "name" : "Business - Briefcase",
-      "value" : "business_briefca"
+      "value" : "business_briefcase-24"
    },
    {
       "name" : "Business - Bulb",
@@ -49,11 +49,11 @@
    },
    {
       "name" : "Business - Chart Bar",
-      "value" : "business_chart-b"
+      "value" : "business_chart-bar-32"
    },
    {
       "name" : "Business - Chart Pie",
-      "value" : "business_chart-p"
+      "value" : "business_chart-pie-36"
    },
    {
       "name" : "Business - Globe",
@@ -61,7 +61,7 @@
    },
    {
       "name" : "Business - Money Coins",
-      "value" : "business_money-c"
+      "value" : "business_money-coins"
    },
    {
       "name" : "Clothes - Tie Bow",
@@ -73,7 +73,7 @@
    },
    {
       "name" : "Design - Bullet List",
-      "value" : "design_bullet-li"
+      "value" : "design_bullet-list-67"
    },
    {
       "name" : "Design - Image",
@@ -97,11 +97,11 @@
    },
    {
       "name" : "Design - Ruler Pencil",
-      "value" : "design-2_ruler-p"
+      "value" : "design-2_ruler-pencil"
    },
    {
       "name" : "Emoticons - Satisfied",
-      "value" : "emoticons_satisf"
+      "value" : "emoticons_satisfied"
    },
    {
       "name" : "Files - Box",
@@ -113,7 +113,7 @@
    },
    {
       "name" : "Files - Single Copy",
-      "value" : "files_single-cop"
+      "value" : "files_single-copy-04"
    },
    {
       "name" : "Health - Ambulance",
@@ -129,11 +129,11 @@
    },
    {
       "name" : "Location - Bookmark",
-      "value" : "location_bookmar"
+      "value" : "location_bookmark"
    },
    {
       "name" : "Location - Compass",
-      "value" : "location_compass"
+      "value" : "location_compass-05"
    },
    {
       "name" : "Location - Map Big",
@@ -153,19 +153,19 @@
    },
    {
       "name" : "Media - Button Pause",
-      "value" : "media-1_button-p"
+      "value" : "media-1_button-pause"
    },
    {
       "name" : "Media - Button Play",
-      "value" : "media-1_button-p"
+      "value" : "media-1_button-play"
    },
    {
       "name" : "Media - Button Power",
-      "value" : "media-1_button-p"
+      "value" : "media-1_button-power"
    },
    {
       "name" : "Media - Camera Compact",
-      "value" : "media-1_camera-c"
+      "value" : "media-1_camera-compact"
    },
    {
       "name" : "Media - Note",
@@ -173,7 +173,7 @@
    },
    {
       "name" : "Media - Sound Wave",
-      "value" : "media-2_sound-wa"
+      "value" : "media-2_sound-wave"
    },
    {
       "name" : "Objects - Diamond",
@@ -193,19 +193,19 @@
    },
    {
       "name" : "Objects - Spaceship",
-      "value" : "objects_spaceshi"
+      "value" : "objects_spaceship"
    },
    {
       "name" : "Objects - Support",
-      "value" : "objects_support-"
+      "value" : "objects_support-17"
    },
    {
       "name" : "Objects - Umbrella",
-      "value" : "objects_umbrella"
+      "value" : "objects_umbrella-13"
    },
    {
       "name" : "Education - Agenda Bookmark",
-      "value" : "education_agenda"
+      "value" : "education_agenda-bookmark"
    },
    {
       "name" : "Education - Atom",
@@ -213,7 +213,7 @@
    },
    {
       "name" : "Education - Glasses",
-      "value" : "education_glasse"
+      "value" : "education_glasses"
    },
    {
       "name" : "Education - Hat",
@@ -237,15 +237,15 @@
    },
    {
       "name" : "Shopping - Cart Simple",
-      "value" : "shopping_cart-si"
+      "value" : "shopping_cart-simple"
    },
    {
       "name" : "Shopping - Credit Card",
-      "value" : "shopping_credit-"
+      "value" : "shopping_credit-card"
    },
    {
       "name" : "Shopping - Delivery Fast",
-      "value" : "shopping_deliver"
+      "value" : "shopping_delivery-fast"
    },
    {
       "name" : "Shopping - Shop",
@@ -253,7 +253,7 @@
    },
    {
       "name" : "Shopping - Tag Content",
-      "value" : "shopping_tag-con"
+      "value" : "shopping_tag-content"
    },
    {
       "name" : "Sport - Trophy",
@@ -265,7 +265,7 @@
    },
    {
       "name" : "Tech - Controller Modern",
-      "value" : "tech_controller-"
+      "value" : "tech_controller-modern"
    },
    {
       "name" : "Tech - Headphones",
@@ -293,7 +293,7 @@
    },
    {
       "name" : "Text - Align Center",
-      "value" : "text_align-cente"
+      "value" : "text_align-center"
    },
    {
       "name" : "Text - Align Left",
@@ -313,11 +313,11 @@
    },
    {
       "name" : "Transportation - Air Baloon",
-      "value" : "transportation_a"
+      "value" : "transportation_air-baloon"
    },
    {
       "name" : "Transportation - Bus Front",
-      "value" : "transportation_b"
+      "value" : "transportation_bus-front-12"
    },
    {
       "name" : "Travel - Info",
@@ -341,7 +341,7 @@
    },
    {
       "name" : "UI - Lock Circle Open",
-      "value" : "ui-1_lock-circle"
+      "value" : "ui-1_lock-circle-open"
    },
    {
       "name" : "UI - Send",
@@ -349,7 +349,7 @@
    },
    {
       "name" : "UI - Settings Gear",
-      "value" : "ui-1_settings-ge"
+      "value" : "ui-1_settings-gear-63"
    },
    {
       "name" : "UI - Simple Add",
@@ -357,11 +357,11 @@
    },
    {
       "name" : "UI - Simple Delete",
-      "value" : "ui-1_simple-dele"
+      "value" : "ui-1_simple-delete"
    },
    {
       "name" : "UI - Simple Remove",
-      "value" : "ui-1_simple-remo"
+      "value" : "ui-1_simple-remove"
    },
    {
       "name" : "UI - Zoom Bold",
@@ -373,7 +373,7 @@
    },
    {
       "name" : "UI - Favourite",
-      "value" : "ui-2_favourite-2"
+      "value" : "ui-2_favourite-28"
    },
    {
       "name" : "UI - Like",
